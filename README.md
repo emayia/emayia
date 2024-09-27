@@ -5,7 +5,7 @@
 - 👨‍💻 **Software Engineering student.**
 - 📚 **Currently finishing [42 Nice's Common Core](https://www.42.fr/).**
 - 🎓 **Bachelor's degree in User Interface Design.**
-- 🛍️ **Building e-commerce solutions with Shopify.**
+- 🛍️ **Building and maintaining e-commerce solutions with Shopify, including [elyacouture.com](https://elyacouture.com), a custom site I’ve been managing and evolving for years.**
 - ⚙️ **Current Stack:**
 
   ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
