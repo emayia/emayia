@@ -19,3 +19,8 @@
   ![Liquid](https://img.shields.io/badge/Liquid-E23E3E?style=flat-square&logo=shopify&logoColor=white)
   ![sh](https://img.shields.io/badge/sh-121011?style=flat-square&logo=gnu-bash&logoColor=white)
   ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+  ![SketchUp](https://img.shields.io/badge/SketchUp-005F9E?style=flat-square&logo=sketchup&logoColor=white)
+  ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
+  ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=black)
+  ![Sketch](https://img.shields.io/badge/Sketch-F7B500?style=flat-square&logo=sketch&logoColor=black)
+  ![AdobeXD](https://img.shields.io/badge/AdobeXD-FF61F6?style=flat-square&logo=adobe-xd&logoColor=white)
