@@ -4,7 +4,7 @@
 
 - 👨‍💻 **Software Engineering student.**
 - 📚 **Currently finishing [42 Nice's Common Core](https://www.42.fr/).**
-- 🎓 **Bachelor's degree in User Interface Design.**
+- 🎓 **Bachelor's degree in User Interface Design.** <sub>*Check out my [Nike Flyknit React UI Design project](https://github.com/emayia/nike_flyknit-ui) for a glimpse into my design work.*</sub>
 - 🛍️ **Building and maintaining e-commerce solutions with Shopify, including [elyacouture.com](https://elyacouture.com), a custom site I’ve been managing and evolving for years.**
 - ⚙️ **Current Stack:**
 
@@ -14,6 +14,7 @@
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
   ![Liquid](https://img.shields.io/badge/Liquid-E23E3E?style=flat-square&logo=shopify&logoColor=white)
   ![sh](https://img.shields.io/badge/sh-121011?style=flat-square&logo=gnu-bash&logoColor=white)
   ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
