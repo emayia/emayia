@@ -4,7 +4,7 @@
 
 - 👨‍💻 **Software Engineering student.**
 - 📚 **Currently finishing [42 Nice's Common Core](https://www.42.fr/).**
-- 🎓 **Bachelor's degree in User Interface Design.** <sub>*Check out my [Nike Flyknit React UI Design project](https://github.com/emayia/nike_flyknit-ui) for a glimpse into my design work.*</sub>
+- 🎓 **Bachelor's degree in UX/UI Design.** <sub>*Check out my [Nike Flyknit React UI Design project](https://github.com/emayia/nike_flyknit-ui) for a glimpse into my design work.*</sub>
 - 🛍️ **Building and maintaining e-commerce solutions with Shopify, including [elyacouture.com](https://elyacouture.com), a custom site I’ve been managing and evolving for years.**
 - 🌍 **Polyglot: fluent in English, Spanish, French and Turkish. Various notions in German, Russian, Italian, Ottoman and Wolof. Currently learning Arabic.**
 - ⚙️ **Current Stack:**
