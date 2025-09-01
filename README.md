@@ -7,8 +7,8 @@
 
 ### 🎓 Expertise and Credentials
 - 👨‍💻 **Ecole 42 Graduate** - Software Engineering ([Check out my graduation project: a fullstack arcade platform](https://github.com/emayia/fullstack-platform-ft_transcendence)).
-- 🎨 **University of Strasbourg** - Bachelor's degree in UX/UI Design ([Sample project from my studies: Nike Flyknit React UI](https://github.com/emayia/nike_flyknit-ui)).
-- 🚀 **Shopify e-Commerce Solutions Expert** - Managing and evolving [elyacouture.com](https://elyacouture.com) - a custom Shopify e-commerce website I've built and been managing for years.
+- 🎨 **University of Strasbourg** - Bachelor's degree in Arts & Design
+- 🚀 **Shopify e-Commerce Solutions Expert**
 
 ### 🌍 Languages
 - **Fluent:** English, Spanish, French, Turkish
