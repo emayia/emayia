@@ -1,8 +1,8 @@
 <h1 align="center">Hi there, welcome to my GitHub! 👋</h1>
-<h3 align="center">I'm Emin — Software Engineer, UX/UI Designer, and Polyglot</h3>
+<h3 align="center">I'm Emin — Software Engineer & Designer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Fullstack+Software+Engineer;UX%2FUI+Designer;Ecole+42+Graduate" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Fullstack+Software+Engineer;Designer;Ecole+42+Graduate" alt="Typing SVG"/>
 </p>
 
 ### 🎓 Expertise and Credentials
