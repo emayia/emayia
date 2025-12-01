@@ -58,9 +58,5 @@
 </div>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emayia&layout=compact&theme=radical" />
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=emayia&color=blueviolet" alt="Profile views"/>
 </p>
