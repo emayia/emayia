@@ -1,21 +1,20 @@
 <h1 align="center">Hi there, welcome to my GitHub! 👋</h1>
-<h3 align="center">I'm Emin, a Software Engineer & Designer focused on AI & Software Architecture</h3>
+<h3 align="center">I'm Emin, a Software Engineer & Product Designer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Software+Engineer;Designer;AI+%26+Software+Architecture+Student" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Software+Engineer;Product+Designer" alt="Typing SVG"/>
 </p>
 
 ### 🎓 Expertise and Credentials
-- 🎓 **Master’s in AI & Software Architecture (ongoing)** – École 42 Nice [(42 Network, France)](https://www.42network.org/42-schools/)
-- 👨‍💻 **Software Engineering Common Core (completed)** – École 42 Nice
+- 👨‍💻 **Software Engineering Graduate** – École 42 Nice [(42 Network, France)](https://www.42network.org/42-schools/)
   - Final capstone project: [fullstack online arcade platform (ft_transcendence)](https://github.com/emayia/fullstack-platform-ft_transcendence)
 - 🎨 **Bachelor's degree in Arts & Design** – University of Strasbourg
 - 🚀 **Shopify e-Commerce Solutions Expert**
 
 ### 🌍 Languages
 - **Fluent:** English, Spanish, French, Turkish  
-- **Intermediate:** German, Italian, Ottoman  
-- **Basic:** Russian, Wolof  
+- **Intermediate:** German, Italian  
+- **Basic:** Russian, Ottoman, Wolof  
 - **Learning:** Arabic  
 
 <h2 align="center"> 💻 Tech Stack</h3>
